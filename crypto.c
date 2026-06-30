@@ -1,5 +1,6 @@
 #include "crypto.h"
 #include <stdlib.h>
+#include <stdio.h>
 
 #define VAULT_FILE "data/vault.gpg"
 #define TEMP_FILE "data/vault.txt"
