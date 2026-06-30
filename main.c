@@ -17,7 +17,7 @@ int main(int argc, char* argv[]) {
     save_records();
   }
   else if(strcmp(argv[1], "list") ==0) {
-    list_records();
+    list_record();
   }
   printf("done\n");
   return 0;
